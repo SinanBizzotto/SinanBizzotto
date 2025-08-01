@@ -6,6 +6,10 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -30,7 +34,35 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🕷️Creating bugs since 2025<br>🔭 Alwayes learning<br>🚀 My goal: ship one new project per month!<br>🧑‍💻 Full Stack Developer<br><br>☕ Code. Coffee. Creativity.</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SinanBizzotto/SinanBizzotto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SinanBizzotto/SinanBizzotto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SinanBizzotto/SinanBizzotto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
 <h2 align="left">My Socials</h2>
+
+###
+
+<p align="left">📨 : sinanbizzotto@icloud.com</p>
 
 ###
 
@@ -45,5 +77,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
