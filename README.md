@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍 I am a software developer from Swizerlaned<br>👉 Check my projects here:</p>
+<p align="left">📍 I am a software developer from Switzerland<br>👉 Check my projects here:</p>
 
 ###
 
